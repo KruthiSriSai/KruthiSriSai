@@ -44,7 +44,7 @@
 ### 📫 How to Reach Me
 
 - **Email**: kruthisrisai6@gmail.com  
-- **LinkedIn**: [Kruthi Sri Sai Ayyalasomayajula](https://linkedin.com/in/kruthi-sri-sai-ayyalasomayajula)
+- **LinkedIn**: [Kruthi Sri Sai Ayyalasomayajula](https://www.linkedin.com/in/kruthi-sri-sai-ayyalasomayajula-878786321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR3jbL7q3TlCWYp%2Fwo1I45g%3D%3D)
 
 ---
 
