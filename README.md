@@ -3,41 +3,41 @@
 
 ---
 
-### 📈 Current Focus
+### 📈 I'm Currently Working On
 
-- 🔭 I’m currently working on **Merging Web Development and Machine Learning to deliver cutting-edge solutions. Experimenting with AI to create intelligent and autonomous systems.**
-
----
-
-### 🌱 Learning & Growing
-
-- I’m currently learning **Advanced Data Structures and Algorithms for optimized coding and problem-solving. Database Management Systems (DBMS) for efficient data handling. Cybersecurity and Ethical Hacking to build secure applications.**
+- **Merging Web Development and Machine Learning** to deliver cutting-edge solutions.
+- **Experimenting with AI** to create intelligent and autonomous systems.
 
 ---
 
-### 🤝 Collaboration & Contributions
+### 🌱 I'm Currently Learning
 
-- 👯 I’m looking to collaborate on:
-  - **Web Development projects** — building dynamic and scalable applications.
-  - **Machine Learning and AI projects** — creating intelligent and data-driven solutions.
-  - **Cybersecurity and Ethical Hacking projects** — strengthening digital security and ethical practices.
-  - **Open-source contributions** — learning, growing, and building impactful tools together.
+- **Advanced Data Structures and Algorithms** for optimized coding and problem-solving.
+- **Database Management Systems (DBMS)** for efficient data handling.
+- **Cybersecurity and Ethical Hacking** to build secure applications.
 
 ---
 
-### 🤔 Seeking Help
+### 🤝 I'm Looking to Collaborate On
 
-- I’m looking for help with:
-  - **Gaining hands-on experience** in AI/ML, Cybersecurity, and Ethical Hacking practices.
-  - **Enhancing Backend Development** and Database Management skills.
+- **Web Development projects** — building dynamic and scalable applications.
+- **Machine Learning and AI projects** — creating intelligent and data-driven solutions.
+- **Cybersecurity and Ethical Hacking projects** — strengthening digital security and ethical practices.
+- **Open-source contributions** — learning, growing, and building impactful tools together.
 
 ---
 
-### 💬 Topics to Discuss
+### 🤔 I'm Looking for Help With
 
-- Ask me about:
-  - **Full Stack Web Development** — from concept to deployment.
-  - **Cybersecurity fundamentals** and **Ethical Hacking techniques**.
+- **Gaining hands-on experience** in AI/ML, Cybersecurity, and Ethical Hacking practices.
+- **Enhancing Backend Development** and Database Management skills.
+
+---
+
+### 💬 Ask me about
+
+- **Full Stack Web Development** — from concept to deployment.
+- **Cybersecurity fundamentals** and **Ethical Hacking techniques**.
 
 ---
 
