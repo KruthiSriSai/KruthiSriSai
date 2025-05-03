@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kruthi SriSai Ayyalasomayajula</h1>
-<h3 align="center">Aspiring Software Developer | Full Stack, ML & AI Enthusiast | Turning ideas into impactful tech solutions.</h3>
+<h3 align="center">Aspiring Software Developer | Full Stack, ML & AI Enthusiast | Turning ideas into code.</h3>
 
 ---
 
